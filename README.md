@@ -1,4 +1,4 @@
-### 준서 Junseo Park
+### Junseo Park
 
 
 <strong>profile</strong>:school:

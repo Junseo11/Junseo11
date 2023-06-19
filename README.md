@@ -9,13 +9,7 @@
   <li>학술동아리 씨애랑 라떼 스터디장</li>
  </ul>
  
- <strong>skill</strong> 
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-- C
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-- Java
-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-- Android Studio
+
 
 
  

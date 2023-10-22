@@ -1,7 +1,7 @@
 ### Junseo Park
 
 ---
-'''js
+'''javascript
 const Me ={
     name : "박준서",
     email : "0302ser@naver.com",

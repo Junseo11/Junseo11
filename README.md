@@ -1,7 +1,7 @@
 ### Junseo Park
 
 ---
-'''javascript
+```js
 const Me ={
     name : "박준서",
     email : "0302ser@naver.com",
@@ -9,7 +9,7 @@ const Me ={
     major : "빅데이터, 콘텐츠it",
     willBe : "웹,앱 프론트엔드 개발자"
 };
-'''
+```
 
 ---
 

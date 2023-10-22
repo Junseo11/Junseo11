@@ -1,6 +1,16 @@
 ### Junseo Park
 
 ---
+'''js
+const Me ={
+    name : "박준서",
+    email : "0302ser@naver.com",
+    school : "한림대학교",
+    major : "빅데이터, 콘텐츠it",
+    willBe : "웹,앱 프론트엔드 개발자"
+};
+
+---
 
 🏫<strong>profile</strong>
 
@@ -9,9 +19,11 @@
 <li>20.07 - 21.12 7군단 107 정보통신단 복무</li>
 <li>22.07 - 22.12한림대학교 중앙동아리 코다 행사기획부원</li>
 <li>22.03 - 22.12 학술동아리 씨애랑 앱개발팀 라떼 팀원</li>
-<li>23.03 - 23.12 학술동아리 씨애랑 앱개발팀 라떼 팀장</li>
+ <li>23.01 ~ 해상물류 ict 멘토링 멘티</li>
+<li>23.03 ~ 학술동아리 씨애랑 앱개발팀 라떼 팀장</li>
 </ul>
 
+---
 🔧<strong>Mt Stack</strong>
 <br><br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>

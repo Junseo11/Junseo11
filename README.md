@@ -1,8 +1,12 @@
 ### Junseo Park
 
 ---
-반갑습니다! ✋
+<details>
+    <summary>
+        반갑습니다! ✋<br><br>
+    </summary>
 
+    
 ```javascript
 const Me ={
     name : "박준서",
@@ -12,10 +16,16 @@ const Me ={
     willBe : "웹,앱 프론트엔드 개발자"
 };
 ```
+</details>
+
+
 
 ---
 
-🏫<strong>profile</strong>
+<details>
+<summary>
+     🏫<strong>profile</strong><br><br>
+</summary>
 
 <ul>
 <li>20.03 한림대학교 소프트웨어융합대학 입학 </li>
@@ -26,9 +36,16 @@ const Me ={
 <li>23.03 ~ 학술동아리 씨애랑 앱개발팀 라떼 팀장</li>
 </ul>
 
+</details>
+
 ---
-🧰<strong>My Stack</strong>
-<br><br>
+
+<details>
+    <summary>
+       🧰<strong>My Stack</strong><br><br>
+    </summary>
+ 
+    
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
@@ -49,9 +66,15 @@ const Me ={
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
+</details>
+
 ---
-💻<strong>Projects</strong>
-<br><br>
+
+<details>
+    <summary>
+        💻<strong>Projects</strong><br><br>
+    </summary>
+
 * **Ministry_of_Oceans_and_Fisheries_Project**<br>
     * 주제: 인공지능을 기반으로 해상물류 분야의 최신 뉴스를 수집하고 사용자에게 맞춤형으로 추천,제공하는 앱<br>
     * 사용도구: AndroidStudio, Kotlin, Figma, Git<br>
@@ -68,10 +91,15 @@ const Me ={
     * 개발인원: 2명<br>
     * 역활: 지형,map 디자인 및 괴물의 동작등<br>
 
----
+</details>
 
-📚<strong>주요 수강과목</strong>
-<br><br>
+---
+<details>
+    <summary>
+        📚<strong>주요 수강과목</strong><br><br>
+    </summary>
+    
+
 |학년|과목명|
 |-|-|
 |1|이산구조론, 자바프로그래밍, 자료구조|
@@ -79,13 +107,34 @@ const Me ={
 |2-2|인공지능, 웹프로그래밍, C프로그래밍|
 |3-1|보안솔루션운영, 오픈소스sw이해,활용, 리눅스실무|
 
+</details>
+
+
+
+---
+<details>
+    <summary>
+        🔌<strong>most used</strong><br><br>
+    </summary>
+    
+    🔌<strong>most used</strong><br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junseo11)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
+
 ---
 
-<strong>Trying</strong><br><br>
+<details>
+    <summary>
+        <strong>Trying</strong><br><br>
+    </summary>
+     
 * 코딩테스트 준비
 * 인스타그램 클론코딩
 * 리엑트 클론코딩
 * 창업 아이디어톤
+</details>
+
 
 
 

@@ -91,7 +91,7 @@ const Me ={
 
 ---
 
-<strong>Trying</strong><br><br>
+✏️<strong>Trying</strong><br><br>
      
 * 코딩테스트 준비
 * 인스타그램 클론코딩

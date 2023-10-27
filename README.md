@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome🙂&desc=Jun's%20Github&descSize=45&descAlign=70&descAlignY=75&fontSize=90&animation=fadeIn&fontColor=2696E6 )
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome🙂&desc=Jun's%20Github&descSize=45&descAlign=70&descAlignY=75&fontSize=90&animation=fadeIn&fontColor=82FA58 )
 ---
 반갑습니다! ✋<br><br>
 
@@ -13,7 +13,7 @@ const Me ={
 ```
 ---
 
-🏫<strong>profile</strong><br><br>
+🏫<strong >profile</strong><br><br>
 
 
 <ul>

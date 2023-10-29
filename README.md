@@ -15,7 +15,7 @@ const Me ={
 ---
 
 🏫<strong><font color="red">profile</font></strong><br><br>
-<span style="color:red">
+<span style="color:red">s</span>
 
 
 

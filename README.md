@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome🙂&desc=Jun's%20Github&descSize=45&descAlign=70&descAlignY=75&fontSize=90&animation=fadeIn&fontColor=82FA58 )
 ---
-반갑습니다! ✋<br><br>
+반갑습니다! 기타치는 프론트엔드 개발자 입니다 ✋🎸<br><br>
 
 ```javascript
 const Me ={
@@ -8,24 +8,25 @@ const Me ={
     email : "0302ser@naver.com",
     school : "한림대학교",
     major : "빅데이터, 콘텐츠it",
+    hobby : "기타치기, 산책하기",
     willBe : "웹,앱 프론트엔드 개발자"
 };
 ```
 ---
 
-🏫<strong >profile</strong><br><br>
+🏫<strong style="color: #82FA58">profile</strong><br><br>
+
 
 
 <ul>
-<li>20.03 한림대학교 소프트웨어융합대학 입학 </li>
-<li>20.07 - 21.12 7군단 107 정보통신단 복무</li>
-<li>22.07 - 22.12한림대학교 중앙동아리 코다 행사기획부원</li>
-<li>22.03 - 22.12 학술동아리 씨애랑 앱개발팀 라떼 팀원</li>
- <li>23.01 ~ 해상물류 ict 멘토링 멘티</li>
-<li>23.03 ~ 학술동아리 씨애랑 앱개발팀 라떼 팀장</li>
+<li>2020.03 한림대학교 소프트웨어융합대학 입학 </li>
+<li>2020.07 - 2021.12 7군단 107 정보통신단 복무</li>
+<li>2022.07 - 2022.12한림대학교 중앙동아리 코다 행사기획부원</li>
+<li>2022.03 - 2022.12 학술동아리 씨애랑 앱개발팀 라떼 팀원</li>
+ <li>2023.01 ~ 해상물류 ict 멘토링 멘티</li>
+<li>2023.03 ~ 학술동아리 씨애랑 앱개발팀 라떼 팀장</li>
 </ul>
 
-</details>
 
 ---
 
@@ -49,6 +50,24 @@ const Me ={
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
+
+---
+
+🏃<strong>Activities</strong><br><br>
+<ul>
+<li>2022.6 - 한림대학교 중앙동아리 코다 정기공연 참여</li>
+<li>2022.7 - 한림대학교 학술동아리 씨애랑 하계워크샵 참석</li>
+<li>2022.8 -  한림모여코딩 활동</li>
+<li>2022.9 - 깃허브 기초 특강 수강</li>    
+<li>2022.10 - 한림명사 특강 수강</li>
+<li>2022.10 - 한림대학교 중앙동아리 코다 정기공연 참여</li>
+<li>2022.11 - 한림대학교 학술동아리 씨애랑 sw 전시회 작품 출품</li>
+<li>2022.10 - 한림대학교 중앙동아리 코다 기타 합주 공연 참여</li>
+<li>2023.01 - ict해상물류 멘토링 프로젝트 진행</li>
+<li>2023.04 - 한림대학교 학술동아리 씨애랑 신입생 대상 자바 기초 강의</li>
+<li>2022.7 - 한림대학교 학술동아리 씨애랑 하계워크샵 참석</li>
+<li>2023.09 - 한림대학교 코딩테스트 가을리그</li>
+</ul>
 
 ---
 

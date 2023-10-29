@@ -14,10 +14,8 @@ const Me ={
 ```
 ---
 
-🏫<strong><font color="red">profile</font></strong><br><br>
-<span style="color:red">s</span>
-
-
+<h3>🏫Profile</h3>
+<br>
 
 
 <ul>
@@ -33,7 +31,8 @@ const Me ={
 ---
 
 
-🧰<strong>My Stack</strong><br><br>
+<h3>🧰My Stack</h3>
+
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
@@ -41,21 +40,19 @@ const Me ={
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
-✏️<strong>Studying</strong><br><br>
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<h3>✏️Studying</h3>
+    
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
 
-🔧<strong>Have Used</strong><br><br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<h3>🔧Have Used</h3>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
 
 ---
 
-🏃<strong>Activities</strong><br><br>
+<h3>🏃Activities</h3><br>
 <ul>
 <li>2022.6 - 한림대학교 중앙동아리 코다 정기공연 참여</li>
 <li>2022.7 - 한림대학교 학술동아리 씨애랑 하계워크샵 참석</li>
@@ -73,7 +70,7 @@ const Me ={
 
 ---
 
-💻<strong>Projects</strong><br><br>
+<h3>💻Projects</h3><br>
 
 
 * **Ministry_of_Oceans_and_Fisheries_Project**<br>
@@ -93,7 +90,7 @@ const Me ={
     * 역활: 지형,map 디자인 및 괴물의 동작등<br>
 
 ---
-📚<strong>주요 수강과목</strong><br><br>
+<h3>📚주요 수강과목</h3><br>
 
 
 |학년|과목명|
@@ -104,20 +101,32 @@ const Me ={
 |3-1|보안솔루션운영, 오픈소스sw이해,활용, 리눅스실무|
 
 ---
-🔌<strong>most used</strong><br><br>
+<h3>🔌My Stat</h3><br>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junseo11)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac
+](http://mazassumnida.wtf/api/generate_badge?boj={Junseo11})](https://solved.ac/{0302ser})
 
 
 
 ---
 
-✏️<strong>Trying</strong><br><br>
-     
+<h3>🙂Trying</h3><br>
+
+<details>
+<summary>✏️앞으로의 도전을 보고싶으시다면 클릭해주세요!</summary>
+ 
 * 코딩테스트 준비
 * 인스타그램 클론코딩
 * 리엑트 클론코딩
 * 창업 아이디어톤
+* 대회 등 수상기록 남기기
+* 웹 프론트 엔드 프로젝트 참여
+* 백엔드 공부해보기
+</details>
+     
+
 
 
 

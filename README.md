@@ -14,7 +14,7 @@ const Me ={
 ```
 ---
 
-<h3>🏫Profile</h3>
+<h3 style="color: #82FA58">🏫Profile</h3>
 <br>
 
 

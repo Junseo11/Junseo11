@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome🙂&desc=Jun's%20Github&descSize=45&descAlign=70&descAlignY=75&fontSize=90&animation=fadeIn&fontColor=82FA58 )
 ---
-✋반갑습니다! 기타치는 프론트엔드 개발자 입니다!🎸<br><br>
+✋<i>반갑습니다! 기타치는 프론트엔드 개발자 입니다!</i>🎸<br><br>
 
 ```javascript
 const Me ={
@@ -15,7 +15,8 @@ const Me ={
 ```
 ---
 
-<h3 style="color: #82FA58">🏫Profile</h3>
+<h3><font color="#82FA58">🏫Profile</font></h3>
+
 <br>
 
 

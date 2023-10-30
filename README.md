@@ -6,6 +6,7 @@
 const Me ={
     name : "박준서",
     email : "0302ser@naver.com",
+    github : "https://github.com/Junseo11",
     school : "한림대학교",
     major : "빅데이터, 콘텐츠it",
     hobby : "기타치기, 산책하기",
@@ -102,9 +103,18 @@ const Me ={
 
 ---
 <h3>🔌My Stat</h3><br>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junseo11)](https://github.com/anuraghazra/github-readme-stats)
 
+오늘의 방문자<br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunseo11&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+자주 사용하는 언어
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junseo11)](https://github.com/anuraghazra/github-readme-stats) 
+
+
+백준
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0302ser)](https://solved.ac/0302ser/)
 

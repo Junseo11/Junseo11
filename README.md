@@ -106,17 +106,17 @@ const Me ={
 ---
 <h3>🔌My Stat</h3><br>
 
-오늘의 방문자<br>
+<strong>오늘의 방문자</strong><br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunseo11&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 
-자주 사용하는 언어
+<strong>자주 사용하는 언어</strong>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junseo11)](https://github.com/anuraghazra/github-readme-stats) 
 <br>
 
-백준
+<strong>백준</strong>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0302ser)](https://solved.ac/0302ser/)
 

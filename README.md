@@ -99,10 +99,9 @@ const Me = {
 <h3>💻프로젝트</h3><br>
 
 ## 24 한림대학교 대동제 웹사이트
-
-<img src="https://github.com/user-attachments/assets/1db33c5a-35cd-4cba-ae34-3475b3425117" alt="reserv" width="200">
-<img src="https://github.com/user-attachments/assets/b9043f41-732b-4ceb-9f8c-90f31fdb4b14" alt="chat" width="200">
-<img src="https://github.com/user-attachments/assets/a9d507db-2d4e-4a2d-afa9-8e37bdbf949d" alt="sca" width="200">
+<img src="https://github.com/user-attachments/assets/db300285-6dc8-477a-a9bd-5e5369b2857d" alt="reserv" width="200">
+<img src="https://github.com/user-attachments/assets/6a5c07d1-eb83-4ea3-bd7b-1a70f2bb569d" alt="sca" width="200">
+<img src="https://github.com/user-attachments/assets/1aef8d90-c64a-46fb-bf4b-6a74d52d7665" alt="chat" width="200">
 
 - **설명**: 2024 한림대학교 대동제를 위한 웹사이트로, 주점 예약 기능을 포함하여 축제 정보 제공 및 예약 편의를 제공했습니다.
 - **주요 기능**: 주점 예약 시스템, 분실물 페이지, 홍보 영상, 동아리 부스 가이드, 축제 일정 안내 등
@@ -122,9 +121,9 @@ const Me = {
 
 
 ## 씨애랑 해커톤 프로젝트
-<img src="https://github.com/user-attachments/assets/6af6e9a3-9b9e-487d-87cf-f6f9b7ec4f6f" alt="main3" width="250">
-<img src="https://github.com/user-attachments/assets/501faff3-8e33-42bf-abdc-54d20c87a63a" alt="chat3" width="250">
-<img src="https://github.com/user-attachments/assets/23892bf0-1c06-40d6-b81a-fb35d3ffa292" alt="login3" width="250">
+<img src="https://github.com/user-attachments/assets/0cfbb39f-e59f-4532-b64b-a101865d8883" alt="main3" width="250">
+<img src="https://github.com/user-attachments/assets/bd723b7b-df4c-4d48-8945-6fb04279b8b9" alt="chat3" width="250">
+<img src="https://github.com/user-attachments/assets/c71a3943-240a-4f0f-a7f2-7a146a50565c" alt="login3" width="250">
 
 - **설명**: 교내 프로젝트 팀 구하기 웹사이트를 제작하여 팀 구성 및 프로젝트 모집의 효율성을 높이고자 했습니다.
 - **주요 기능**: 팀원 모집, 사용자 정보 관리, 프로젝트/스터디 정보 필터링 등
@@ -142,7 +141,7 @@ const Me = {
 
 
 ## 림붕어빵
-<img src="https://github.com/user-attachments/assets/5893dc00-09bd-4ca4-9cc2-917a492d4bd3" alt="fishmain" width="200">
+<img src="https://github.com/user-attachments/assets/a0ddc4e5-078f-43f1-acc6-38fe6b495749" alt="fishmain" width="200">
 
 - **설명**: 학교 주변의 붕어빵 판매 위치를 지도에 표시하는 웹 서비스입니다.
 - **주요 기능**: 위치 추가/삭제/편집, 지도 표시 및 검색 기능
@@ -154,11 +153,11 @@ const Me = {
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## 23년 해양수산부 프로젝트 (AI 기반 해상 물류 피드 앱)
-<img src="https://github.com/user-attachments/assets/771bb4f6-37fb-43ea-be1d-04b8a63894b5" alt="oc2" width="150">
-<img src="https://github.com/user-attachments/assets/38ccf6fb-5052-4b63-b328-c8bf30cbcbfb" alt="oc3" width="150">
-<img src="https://github.com/user-attachments/assets/4379cbd1-ad16-45c4-aa27-e079274684a1" alt="oc4" width="150">
-<img src="https://github.com/user-attachments/assets/96cbee4c-04c6-497c-bcf3-f35a1a4278ad" alt="oc5" width="150">
-<img src="https://github.com/user-attachments/assets/6e180f14-86ff-4734-bf58-dbc52a75181b" alt="oc6" width="150">
+<img src="https://github.com/user-attachments/assets/a77fdfe0-ca56-4cdd-ade9-761cbe87c7bc" alt="oc2" width="150">
+<img src="https://github.com/user-attachments/assets/4edb4f08-f66c-4b64-9d81-cf5ba131aa9d" alt="oc3" width="150">
+<img src="https://github.com/user-attachments/assets/c5462fbd-6f30-471c-b66f-0c606084c013" alt="oc4" width="150">
+<img src="https://github.com/user-attachments/assets/4757af18-09b2-4938-bf2e-fb7670d14717" alt="oc5" width="150">
+<img src="https://github.com/user-attachments/assets/c0d36405-2065-47f8-ba72-4419c5428cd7" alt="oc6" width="150">
 
 - **설명**: AI를 활용하여 해상 물류 분야의 최신 뉴스를 수집하고 사용자 맞춤형으로 추천하는 앱입니다.
 - **사용 도구**:
@@ -169,11 +168,9 @@ const Me = {
 - **역할**: 앱 UI 디자인 및 전체 기능 구현
 
 ## 세월호 기억교실 앱
-
-<img src="https://github.com/user-attachments/assets/35b5578b-c2c2-477a-8e91-9650fcc75b87" alt="image3" width="200">
-<img src="https://github.com/user-attachments/assets/45227d14-97d6-459e-b65e-fa1f5256e127" alt="image4" width="200">
-<img src="https://github.com/user-attachments/assets/a4c17a78-d7ec-428a-a4c5-617ce2a64740" alt="image6" width="200">
-
+<img src="https://github.com/user-attachments/assets/53b14805-10db-49cb-b01c-cca1b73d11f4" alt="image6" width="200">
+<img src="https://github.com/user-attachments/assets/98a6f661-dcb6-4af8-bf09-8502719e0104" alt="image4" width="200">
+<img src="https://github.com/user-attachments/assets/78f7be6a-2332-4908-898c-4ee18f323418" alt="image6" width="200">
 
 
 - **설명**: 세월호 참사 10주년을 기리며 세월호 기억교실의 외주로 제작한 안드로이드 앱입니다.

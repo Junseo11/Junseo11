@@ -5,7 +5,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/5d892bb6-6ab6-43f0-873e-4865c9a6e4fb" alt="main" width="300"/></td>
+      <td><img src="https://github.com/user-attachments/assets/c10ac529-c0df-414e-8f7c-8724d8c9806f" alt="main" width="300"/></td>
       <td>
         <pre>
 const Me = {

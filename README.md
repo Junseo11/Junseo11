@@ -121,6 +121,10 @@ const Me = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+- **리포지토리**
+https://github.com/KKimjinoh
+
+
 
 ## 씨애랑 해커톤 프로젝트
 <img src="https://github.com/user-attachments/assets/0cfbb39f-e59f-4532-b64b-a101865d8883" alt="main3" width="250">

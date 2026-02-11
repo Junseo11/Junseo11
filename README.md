@@ -28,30 +28,27 @@ const Me = {
 ---
 
 
-<h3>🧰제가 사용하는 기술을 소개합니다!</h3>
-
+#### 🧰 주로 사용하는 기술
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/) <br/>
-[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)
+
+#### 🔧 사용해본 기술
+[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white)](https://developer.android.com/studio)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
 
-
-<h3>✏️공부하는 중입니다!</h3>
-    
+#### ✏️ 공부하는 중
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-
-<h3>🔧사용해봤습니다!</h3>
-
+#### 📦 경험해본 기술
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![C](https://img.shields.io/badge/C-A8B400?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
 
 ---
@@ -226,47 +223,16 @@ https://github.com/KKimjinoh
 
 
 ---
-<h3>🔌저의 상태입니다!</h3><br>
+## 🔌 저의 상태입니다!
 
-<strong>오늘의 방문자</strong><br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunseo11&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br><br>
+<div align="center">
 
-<strong>자주 사용하는 언어</strong><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junseo11&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
+**백준 프로필**
 
-<strong>백준 프로필</strong><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0302ser)](https://solved.ac/0302ser/)
-<br><br>
 
 ---
 
-<h3>🙂시도중입니다!</h3><br>
-
-<details>
-<summary>🌟 <strong>✏️ 앞으로의 도전을 보고 싶으시다면 클릭해주세요!</strong></summary>
-<br>
-
-<ul>
-  <li>💻 <strong>코딩테스트 준비</strong></li>
-  <li>📷 <strong>인스타그램 클론코딩</strong></li>
-  <li>🎨 <strong>리액트 클론코딩</strong></li>
-  <li>🚀 <strong>창업 아이디어톤</strong></li>
-  <li>🏆 <strong>대회 등 수상기록 남기기</strong></li>
-  <li>🌐 <strong>웹 프론트엔드 프로젝트 참여</strong></li>
-  <li>🛠️ <strong>백엔드 공부해보기</strong></li>
-</ul>
-
-</details>
-
-
-
-
-
-
-
- 
  
  
  

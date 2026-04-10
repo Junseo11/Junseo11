@@ -223,18 +223,7 @@ https://github.com/KKimjinoh
 
 
 ---
-## 🔌 저의 상태입니다!
 
-<div align="center">
-
-**백준 프로필**
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0302ser)](https://solved.ac/0302ser/)
-
----
-
- 
- 
  
    
 
